@@ -1,0 +1,7 @@
+.erreur {
+    color: red;
+}
+
+.loading {
+    filter: blur(10px);
+}
